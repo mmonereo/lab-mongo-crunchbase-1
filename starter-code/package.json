@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "clear": "^0.1.0",
+    "mongodb": "^2.2.36"
+  }
+}
